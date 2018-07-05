@@ -34,6 +34,7 @@ int binarySearch(int arr[],int target, int left, int right)
 
 
 // ==== Another Implementation =================================================
+// **this has more comparisons
 //
 // =============================================================================
 int binarySearch(int arr[],int target, int left, int right)
